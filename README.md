@@ -14,3 +14,5 @@ Make executable and run:
 ```bash
 chmod +x simple-interest.sh
 ./simple-interest.sh 10000 5 2
+
+new branch added
